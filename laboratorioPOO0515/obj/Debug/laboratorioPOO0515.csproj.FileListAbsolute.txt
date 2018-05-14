@@ -1,0 +1,10 @@
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\laboratorioPOO0515\laboratorioPOO0515\obj\Debug\laboratorioPOO0515.csprojResolveAssemblyReference.cache
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\laboratorioPOO0515\laboratorioPOO0515\obj\Debug\laboratorioPOO0515.Login.resources
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\laboratorioPOO0515\laboratorioPOO0515\obj\Debug\laboratorioPOO0515.Main.resources
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\laboratorioPOO0515\laboratorioPOO0515\obj\Debug\laboratorioPOO0515.Properties.Resources.resources
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\laboratorioPOO0515\laboratorioPOO0515\obj\Debug\laboratorioPOO0515.csproj.GenerateResource.Cache
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\laboratorioPOO0515\laboratorioPOO0515\bin\Debug\laboratorioPOO0515.exe.config
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\laboratorioPOO0515\laboratorioPOO0515\bin\Debug\laboratorioPOO0515.exe
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\laboratorioPOO0515\laboratorioPOO0515\bin\Debug\laboratorioPOO0515.pdb
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\laboratorioPOO0515\laboratorioPOO0515\obj\Debug\laboratorioPOO0515.exe
+c:\users\diego\onedrive\documentos\visual studio 2017\Projects\laboratorioPOO0515\laboratorioPOO0515\obj\Debug\laboratorioPOO0515.pdb
