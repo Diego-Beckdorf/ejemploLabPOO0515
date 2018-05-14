@@ -32,6 +32,7 @@ namespace laboratorioPOO0515
             String contrasena = passTextBox.Text;
             Usuario usuario = new Usuario(nombreUsuario, contrasena);
             listener.Login(usuario);
+            this.Close();
         }
     }
 }
